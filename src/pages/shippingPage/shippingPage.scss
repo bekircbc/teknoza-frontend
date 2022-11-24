@@ -1,0 +1,15 @@
+.shipping-page {
+  .shipping-form {
+    h1 {
+      margin: 20px 0;
+    }
+    width: fit-content;
+    margin: 0 auto;
+    .form-location-box {
+      display: flex;
+      flex-direction: column;
+      border: 1px solid #dfdfdf;
+      padding: 10px;
+    }
+  }
+}

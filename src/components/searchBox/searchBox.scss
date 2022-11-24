@@ -1,0 +1,15 @@
+
+form{
+    width: 17rem ;
+    .input-group{
+        
+        width: auto !important;
+        #button-search{
+            background-color: #0049bd;
+            
+            &:hover{
+                background-color: blue;
+            }
+        }
+    }
+}

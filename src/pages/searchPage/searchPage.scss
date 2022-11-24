@@ -1,0 +1,19 @@
+.searchPage {
+    h3 {
+        color: #0049bf;
+    }
+
+
+    a {
+        text-decoration: none;
+        color: black;
+
+
+        &:hover {
+            font-weight: bold;
+            color: #e78b42;
+        }
+    }
+
+
+}

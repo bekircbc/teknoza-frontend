@@ -1,0 +1,5 @@
+# Teknoza App
+
+## Backend
+
+## Frontend

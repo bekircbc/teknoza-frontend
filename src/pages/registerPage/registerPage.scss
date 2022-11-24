@@ -1,0 +1,18 @@
+.register-page {
+  .register-form {
+    h1 {
+      margin-bottom: 10px;
+    }
+    margin: 10px auto;
+    width: fit-content;
+    p {
+      margin-top: 10px;
+    }
+
+    .formik-error{
+      color: red;
+      font-style: italic;
+      font-size: smaller;
+    }
+  }
+}
