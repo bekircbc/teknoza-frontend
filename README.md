@@ -24,6 +24,6 @@
 
 ## Deployment
 
-- [Backend deployed on Hetzner Server] (https://teknoza-cypress.bscebeci.de/api/products)
+- (Backend deployed on Hetzner Server)[https://teknoza-cypress.bscebeci.de/api/products]
 
-- [Frontend deployed on Vercel] (https://teknoza-frontend.vercel.app/home)
+- (Frontend deployed on Vercel)[https://teknoza-frontend.vercel.app/home]
